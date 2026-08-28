@@ -1,0 +1,8 @@
+{
+  "name": "SHiFT Protocol",
+  "short_name": "SHiFT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a"
+}

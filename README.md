@@ -1,2 +1,10 @@
-# shift-protocol
-SHiFT Protocol — VR + neural entrainment for craving, panic, mood, and PTSD load. Investor MVP and landing.
+# SHiFT Protocol
+
+Investor MVP and landing for SHiFT.
+
+- `/` landing
+- `/session` working protocol engine
+- `/investor` one-pager
+
+Research: https://shift33.substack.com
+Founder: Jay Young
